@@ -2,20 +2,26 @@
   "products": [
     {
       "id": 1,
-	"img":"https://www.meucurso.com.br/media/catalog/product/cache/bd18985e76e4d3643fe6e57b69c4327b/o/a/oab_3_em_1_mini.jpg",
+	    "img":"https://www.meucurso.com.br/media/catalog/product/cache/bd18985e76e4d3643fe6e57b69c4327b/o/a/oab_3_em_1_mini.jpg",
       "name": "1a Fase OAB 38º Exame - Preparação turbinada 3 em 1: Intensivo + Resolução de Questões + Bônus das novas disciplinas",
+      "price": "689,45",
+      "scratchedPrice": "1.378,90",
       "shortDescription": "Preparamos um curso COMBO com mais de 400 aulas com imersão nas 20 disciplinas do Exame de Ordem."
     },
   {
     "id": 2,
     "img":"https://www.meucurso.com.br/media/catalog/product/cache/bd18985e76e4d3643fe6e57b69c4327b/e/x/ext-dez-m_2_1_1.jpg",
     "name":"Extensivo OAB 38º - início 10/04",
+    "price": "1.099,00",
+    "scratchedPrice": "1.499,00",
     "shortDescription": "Para aqueles que desejam aprofundar seus conhecimentos para o Exame de Ordem, desenvolvemos um programa com as 20 disciplinas da prova."
   },
   {
     "id":3,
     "img":"https://www.meucurso.com.br/media/catalog/product/cache/bd18985e76e4d3643fe6e57b69c4327b/c/a/capa_mini_intensivo38_2_1_1.jpg",
     "name":"Intensivo OAB 38º Exame - Semanal Manhã - Início 13/03 - Presencial",
+    "price": "1.099,00",
+    "scratchedPrice": "1.499,00",
     "shortDescription":"aulas presenciais a partir de 13/03/2023."
   }
 ]
